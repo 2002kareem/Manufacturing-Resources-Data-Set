@@ -8,10 +8,10 @@ This project conducts a comprehensive analysis of machine downtime data in a man
 
 ## 🎯 Project Objectives
 
-1.  **Build a Standardized Data Model:** Create a flexible Fact and Dimension model in SQL to enable fast, accurate, and reliable analytical queries.
-2.  **Calculate Core KPIs:** Accurately measure Availability Rate (AR), MTTR, and MTBF per machine and department.
-3.  **Identify Root Causes:** Analyze downtime across key dimensions (Machine, Reason, Shift, Operator) to pinpoint the main drivers of failure.
-4.  **Provide Visual Insights:** Design a comprehensive, interactive dashboard to support operational and strategic decision-making.
+1.  Build a Standardized Data Model: Create a flexible Fact and Dimension model in SQL to enable fast, accurate, and reliable analytical queries.
+2.  Calculate Core KPIs: Accurately measure Availability Rate (AR), MTTR, and MTBF per machine and department.
+3.  Identify Root Causes: Analyze downtime across key dimensions (Machine, Reason, Shift, Operator) to pinpoint the main drivers of failure.
+4.  Provide Visual Insights: Design a comprehensive, interactive dashboard to support operational and strategic decision-making.
 
 ## 🛠️ Tools and Technologies Used
 
@@ -56,6 +56,6 @@ For a detailed explanation of the methodology, assumptions, analytical conclusio
 
 -----
 
-**Authored by:** [Your Name / Team Name]
+**Authored by:Kareem Ibrahim Elrawady / Insights Makers
 
-**Last Updated:** [Project Last Update Date]
+Last Updated: 11/11/2025
