@@ -1,3 +1,88 @@
-###🏭 Manufacturing Downtime Analysis 
-| Team Ingiths Makers[]([INSERT YOUR NOTION PROJECT PLAN LINK HERE])💡 Project Overview & GoalOur team conducted a comprehensive, data-driven investigation into machine operational metrics to identify and mitigate the key drivers of production downtime across a manufacturing facility. By analyzing 10,000 recorded downtime events, our core objective was to move maintenance strategy from reactive repairs to predictive asset management, ultimately enhancing Overall Equipment Effectiveness (OEE).Business Value Delivered 📈Strategic Focus: We identified the 'critical few' faults causing the majority of lost time, allowing the organization to focus resources effectively.Cost Reduction: Our recommendations aim to reduce financial losses associated with unplanned, high-duration outages.Operational Optimization: We provided clear insights for targeted resource allocation across different work shifts.🚨 Our Key Findings & Actionable RecommendationsThe team's analysis isolated critical failure patterns, providing a strong foundation for operational change:FindingDetailed ImpactTeam Recommendation🚨 Critical Fault DriverElectrical Faults were definitively proven to cause the longest average duration of unplanned downtime, severely reducing annual Efficiency Scores.We recommend implementing a Predictive Maintenance Program focused specifically on electrical systems (e.g., quarterly thermographic inspections).⏳ Asset LifecycleWe established a strong inverse correlation between Machine Age and efficiency, highlighting that older assets are costly to maintain.We propose establishing a clear Asset Replacement Strategy for machines exceeding key age thresholds and underperforming efficiency benchmarks.👥 Shift A BottleneckShift A consistently recorded the highest average downtime duration per event, suggesting a critical lack of immediate, specialized technical expertise.We advise optimizing resource scheduling to ensure the highest level of certified technicians are available during Shift A.🔧 Analytical Toolkit & MethodologyWe implemented a robust, multi-stage methodology utilizing industry-standard tools for end-to-end data processing:ToolFunction and Role in Project🐍 Python (Jupyter)Used for data cleaning, merging the datasets, statistical checks, and advanced Exploratory Data Analysis (EDA).🖥️ SQL (T-SQL)Essential for complex relational querying, metric aggregation, and calculating annual performance scores (Efficiency_Score_year).📊 Power BI (.pbix)Our final platform for creating the interactive dashboard and visualizing key findings for executive reporting.Draw.ioUsed to create the visual Entity-Relationship Diagram (ERD) and document the project's data flow architecture.NotionServed as our central Project Management Hub for task tracking, documentation, and collaborative planning.📁 Repository ContentsThis repository contains all the necessary files to reproduce our analysis and view the final output:File NameDescriptionManufacturing_Downtime_Python.ipynbThe complete Python code demonstrating our EDA, data merging, and statistical analysis.Manufacturing Downtime.sqlAll SQL queries used to model the data and calculate performance metrics.Manufacturing_Downtime.pbixThe final Power BI dashboard file, ready for viewing and interaction.Machine_Info.csv & Manufacturing_Downtime.csvThe clean, segmented datasets used as the foundation for our work.[Project Book Name].docx(Optional) The comprehensive final report documenting our methodology and detailed conclusions.🚀 Getting StartedFollow these steps to explore our project and reproduce the analysis:Clone the Repository:Bashgit clone https://github.com/2002kareem/Manufacturing-Resources-Data-Set.git
-Review the Plan: Access the Notion Project Plan (link above) to understand the full project scope and data dictionary.Execute the Code: Run the SQL queries against your database environment and execute the cells in the Jupyter Notebook.View the Dashboard: Open the Manufacturing\_Downtime.pbix file using Power BI Desktop to interact with our findings.🤝 Contact the TeamFor any questions, feedback, or collaboration opportunities, please contact our team lead or members via:[Team Lead's Name]LinkedIn: [INSERT TEAM LEAD'S LINKEDIN PROFILE LINK HERE]Team Email: [INSERT TEAM EMAIL IF APPLICABLE]
+# 🏭 Manufacturing Downtime Analysis | Team Insights Makers
+[Project Plan on Notion](INSERT YOUR NOTION PROJECT PLAN LINK HERE)
+
+---
+
+## 💡 Project Overview & Goal
+
+Our team conducted a comprehensive, data-driven investigation into machine operational metrics to identify and mitigate the key drivers of production downtime across a manufacturing facility.
+
+By analyzing **10,000 recorded downtime events**, our core objective was to shift the maintenance strategy from **reactive repairs** to **predictive asset management**, ultimately enhancing **Overall Equipment Effectiveness (OEE)**.
+
+---
+
+## 📈 Business Value Delivered
+
+### **Strategic Focus**
+We identified the *critical few* faults causing the majority of lost production time, allowing the organization to focus resources effectively.
+
+### **Cost Reduction**
+Our recommendations target minimizing financial losses associated with unplanned, high-duration outages.
+
+### **Operational Optimization**
+We provided actionable insights enabling smarter workforce and maintenance resource allocation across different shifts.
+
+---
+
+## 🚨 Key Findings & Actionable Recommendations
+
+The team isolated several critical failure patterns that form a strong foundation for operational improvement:
+
+| Finding | Detailed Impact | Team Recommendation |
+|--------|-----------------|---------------------|
+| 🚨 **Critical Fault Driver** | Electrical Faults were proven to cause the **longest average duration** of unplanned downtime, significantly reducing annual Efficiency Scores. | Implement a **Predictive Maintenance Program** for electrical systems (e.g., quarterly thermographic inspections). |
+| ⏳ **Asset Lifecycle** | A strong inverse correlation was found between **Machine Age** and **Efficiency**, showing that older assets are costly to maintain. | Establish a formal **Asset Replacement Strategy** for aging machines below performance benchmarks. |
+| 👥 **Shift A Bottleneck** | Shift A showed the highest average downtime duration, indicating lack of specialized technical expertise during that shift. | Optimize scheduling to ensure **certified technicians** are available during Shift A. |
+
+---
+
+## 🔧 Analytical Toolkit & Methodology
+
+We used a multi-stage analytical workflow supported by industry-standard tools:
+
+| Tool | Role in Project |
+|------|-----------------|
+| 🐍 **Python (Jupyter)** | Data cleaning, merging datasets, statistical checks, and EDA. |
+| 🖥️ **SQL (T-SQL)** | Complex querying, metric aggregation, and computing yearly performance scores (`Efficiency_Score_year`). |
+| 📊 **Power BI (.pbix)** | Final dashboard environment for executive-level visualization. |
+| 📐 **Draw.io** | Produced the ERD and data flow diagrams. |
+| 📒 **Notion** | Project management hub for documentation, planning, and task tracking. |
+
+---
+
+## 📁 Repository Contents
+
+This repository contains all files required to reproduce our analysis:
+
+| File Name | Description |
+|-----------|-------------|
+| `Manufacturing_Downtime_Python.ipynb` | Full Python code: EDA, data merging, and statistical analysis. |
+| `Manufacturing Downtime.sql` | SQL queries for modeling and calculating performance metrics. |
+| `Manufacturing_Downtime.pbix` | Power BI dashboard for interactive visualization. |
+| `Machine_Info.csv` & `Manufacturing_Downtime.csv` | Clean, formatted datasets used in the project. |
+| `[Project Book Name].docx` | (Optional) Comprehensive final report documenting methods and findings. |
+
+---
+
+## 🚀 Getting Started
+
+Follow the steps below to explore or reproduce our analysis:
+
+### **1. Clone the Repository**
+```bash
+git clone https://github.com/2002kareem/Manufacturing-Resources-Data-Set.git
+
+Review the Plan: Access the Notion Project Plan (link above) to understand the full project scope and data dictionary.
+
+Execute the Code: Run the SQL queries against your database environment and execute the cells in the Jupyter Notebook.
+
+View the Dashboard: Open the Manufacturing\_Downtime.pbix file using Power BI Desktop to interact with our findings.
+
+🤝 Contact the Team
+For any questions, feedback, or collaboration opportunities, please contact our team lead or members via:
+
+[Team Lead's Name]
+
+LinkedIn: [INSERT TEAM LEAD'S LINKEDIN PROFILE LINK HERE]
+
+Team Email: [INSERT TEAM EMAIL IF APPLICABLE]
