@@ -67,18 +67,17 @@ This repository contains all files required to reproduce our analysis:
 ## 🚀 Getting Started
 
 Follow the steps below to explore or reproduce our analysis:
-
 ### **1. Clone the Repository**
 ```bash
 git clone https://github.com/2002kareem/Manufacturing-Resources-Data-Set.git
+````
+2.Review the Plan: Access the Notion Project Plan (link above) to understand the full project scope and data dictionary.
 
-Review the Plan: Access the Notion Project Plan (link above) to understand the full project scope and data dictionary.
+3.Execute the Code: Run the SQL queries against your database environment and execute the cells in the Jupyter Notebook.
 
-Execute the Code: Run the SQL queries against your database environment and execute the cells in the Jupyter Notebook.
+4.View the Dashboard: Open the Manufacturing\_Downtime.pbix file using Power BI Desktop to interact with our findings.
 
-View the Dashboard: Open the Manufacturing\_Downtime.pbix file using Power BI Desktop to interact with our findings.
-
-🤝 Contact the Team
+### 🤝 Contact the Team
 For any questions, feedback, or collaboration opportunities, please contact our team lead or members via:
 
 [Team Lead's Name]
