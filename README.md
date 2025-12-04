@@ -1,5 +1,5 @@
 # 🏭 Manufacturing Downtime Analysis | Team Insights Makers
-[[Project Plan on Notion] https://www.notion.so/Manufacturing_Downtime_Project-2a8077f7e2c1805d9b4dcd186468fa5e?source=copy_link
+Project Plan on Notion  https://www.notion.so/Manufacturing_Downtime_Project-2a8077f7e2c1805d9b4dcd186468fa5e?source=copy_link
 
 ---
 
