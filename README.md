@@ -1,5 +1,5 @@
 # 🏭 Manufacturing Downtime Analysis | Team Insights Makers
-[[Project Plan on Notion](INSERT YOUR NOTION PROJECT PLAN LINK HERE)](https://www.notion.so/Manufacturing_Downtime_Project-2a8077f7e2c1805d9b4dcd186468fa5e?source=copy_link)
+[[Project Plan on Notion] https://www.notion.so/Manufacturing_Downtime_Project-2a8077f7e2c1805d9b4dcd186468fa5e?source=copy_link
 
 ---
 
@@ -82,6 +82,6 @@ For any questions, feedback, or collaboration opportunities, please contact our 
 
 Kareem Ibrahim Elrawady
 
-LinkedIn: [INSERT TEAM LEAD'S LINKEDIN PROFILE LINK HERE]
+LinkedIn: www.linkedin.com/in/kareem-elrawady
 
 Team Email: Kareemelrawady@gmail.com
