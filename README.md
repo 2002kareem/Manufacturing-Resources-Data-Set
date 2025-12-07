@@ -45,7 +45,7 @@ We used a multi-stage analytical workflow supported by industry-standard tools:
 | 🐍 **Python (Jupyter)** | Data cleaning, merging datasets, statistical checks, and EDA. |
 | 🖥️ **SQL (T-SQL)** | Complex querying, metric aggregation, and computing yearly performance scores (`Efficiency_Score_year`). |
 | 📊 **Power BI (.pbix)** | Final dashboard environment for executive-level visualization. |
-| 📐 **Draw.io** | Produced the ERD and data flow diagrams. |
+| 📐 **Excel** | Produced Intial analysis for data. |
 | 📒 **Notion** | Project management hub for documentation, planning, and task tracking. |
 
 ---
@@ -60,7 +60,7 @@ This repository contains all files required to reproduce our analysis:
 | `Manufacturing Downtime.sql` | SQL queries for modeling and calculating performance metrics. |
 | `Manufacturing_Downtime.pbix` | Power BI dashboard for interactive visualization. |
 | `Machine_Info.csv` & `Manufacturing_Downtime.csv` | Clean, formatted datasets used in the project. |
-| `[Project Book Name].docx` | (Optional) Comprehensive final report documenting methods and findings. |
+| `[Manufacturing_Downtime].docx` | (Optional) Comprehensive final report documenting methods and findings. |
 
 ---
 
